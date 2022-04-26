@@ -1,4 +1,4 @@
-# Scrap A You Tube Channel And Analyse The Video and comments content
+# Scrap a You Tube channel and analyse the video and comments content
 
 
 ### Tools used and installation
